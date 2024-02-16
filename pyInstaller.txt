@@ -1,0 +1,1 @@
+pyinstaller --onefile --paths=.venv --hidden-import=PIL --hidden-import=PIL._imagingtk --hidden-import=PIL._tkinter_finder --icon=cropi.ico -w main.py 
