@@ -10,7 +10,7 @@ Supports Windows and Linux
 # Preview
 
 <p align="center">
-  <img src="preview.jpg" alt="" width="200">
+  <img src="preview.jpg" alt="">
 </p>
 
 
